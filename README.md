@@ -6,4 +6,4 @@
 <img width="875" alt="Screen Shot 2021-05-09 at 3 50 03 PM" src="https://user-images.githubusercontent.com/39035908/117589496-af95f200-b0de-11eb-8194-0683af8fcfb3.png">
 <img width="877" alt="Screen Shot 2021-05-09 at 3 50 15 PM" src="https://user-images.githubusercontent.com/39035908/117589499-b02e8880-b0de-11eb-8fab-3e609003fd62.png">
 <br />
-The ending is a little broken, it's supposed to loop back around.
+The ending is a little broken, it's supposed to loop back around after the bread slowly dies as you eat him all (see eat4.png and eat5.png)
