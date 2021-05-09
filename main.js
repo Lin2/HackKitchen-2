@@ -192,5 +192,5 @@ client.on('message', message => {
 
 
 
-client.login('ODQwNjk0MjIyMTg5MzYzMjQx.YJb7gQ.Q68LgpJOAUzeAokiceB24e6XtTs') //this is sensitive info
+client.login('ODQwNjk0MjIyMTg5MzYzMjQx.YJb7gQ.Q68LgpJOAUzeAokiceB24e6XtTs') //outdated of course
 
